@@ -30,7 +30,7 @@ This is the Masai Build and Earn collaborative Project.The application provides 
 
 ## Installation
 ```
-Clone Url : https://github.com/masai-builds/QuesTime.git
+Clone Url : https://github.com/TridipRong/QuesTyme.git
 ```
 
 ### Backend Installation
